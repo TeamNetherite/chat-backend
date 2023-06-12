@@ -1,0 +1,4 @@
+/target
+/run
+.env
+history.txt
